@@ -23,3 +23,9 @@ let response = {
 #
 
 ###### I'm Amin, a 18-year-old developer from Iran who goes by "Aiden Fier" in media.
+
+#### I joined the programming world as a backend and frontend developer and quickly developed a passion for coding and building engaging projects. Over the years, I’ve created numerous web applications, designed user-friendly interfaces, and contributed to improving community platforms. I love solving complex problems and bringing ideas to life through code.
+
+#### I’ve worked on countless projects, building RESTful APIs, scalable backend systems, and sleek frontend interfaces using modern tools and frameworks. In addition to web development, I’ve also collaborated with clients and teams to help them create and manage communities, enhance user experience, and automate workflows with custom tools.
+
+#### Need help with your project, custom application, or community platform? You can reach out to me!

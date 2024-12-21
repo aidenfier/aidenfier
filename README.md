@@ -24,8 +24,12 @@ let response = {
 
 ###### I'm Amin, a 18-year-old developer from Iran who goes by "Aiden Fier" in media.
 
-#### I joined the programming world as a backend and frontend developer and quickly developed a passion for coding and building engaging projects. Over the years, I’ve created numerous web applications, designed user-friendly interfaces, and contributed to improving community platforms. I love solving complex problems and bringing ideas to life through code.
+###### I started my journey as a backend and frontend developer, diving into coding and building projects that solve real-world problems. My passion lies in creating clean, efficient code and designing applications that are both functional and visually appealing.
 
-#### I’ve worked on countless projects, building RESTful APIs, scalable backend systems, and sleek frontend interfaces using modern tools and frameworks. In addition to web development, I’ve also collaborated with clients and teams to help them create and manage communities, enhance user experience, and automate workflows with custom tools.
+###### While I may not have worked on countless projects, the ones I’ve completed have helped me grow and sharpen my skills in web development. I enjoy experimenting with new technologies, building APIs, and creating intuitive user interfaces that make an impact.
 
-#### Need help with your project, custom application, or community platform? You can reach out to me!
+###### Need help with a project or custom application? Feel free to reach out to me!
+
+
+### My Skills and Tools & Software I Use
+![](https://camo.githubusercontent.com/b5b4f7d0ab34d8f504c0d3c55bbf101e6a480e4fede2adaa0dac18b9a97c6a52/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c68746d6c2c6373732c6e6f64656a732c6d6f6e676f64622c7673636f64652c6769746875622c6769742c646973636f7264)

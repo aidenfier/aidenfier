@@ -1,30 +1,21 @@
 ```javascript
-"use strict";
-
-import { UserGeneratorSystem as User } from "ID-CARD";
-
-const userGeneratorSystem = async () => {
-  return await User({
-    status: 200,
-    data: {
-      displayName: "Amin",
-      knownAs: "Aiden Fier",
-      nickName: "Crawler",
-      birthday: "01 June",
-      jobData: {
-        jobArea: [
-          "NodeJS",
-          "ExpressJS",
-          "JS",
-          "RegEX",
-          "Canvas 2D Rendering",
-          "PHP",
-        ],
-        jobType: "Senior Developer",
-      },
-    },
-  });
+let response = {
+  status: 200,
+  data: {
+    knownAs: "Aiden Fier",
+    nickname: "CRAWLER",
+    birthday: "1 June",
+    skills: [
+      "NodeJS",
+      "ExpressJS",
+      "JS",
+      "RegEX",
+      "Canvas 2D Rendering",
+      "PHP",
+    ],
+    rank: "Senior Developer",
+  },
 };
-
-export default userGeneratorSystem;
 ```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1001&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Aiden;a+Frontend+and+Backend+Developer;I+love+creating+and+coding+cool+stuff;Also%2C+I'm+interested+in+managing+communities;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)

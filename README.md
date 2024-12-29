@@ -28,7 +28,7 @@ let response = {
 
 ###### While I may not have worked on countless projects, the ones I’ve completed have helped me grow and sharpen my skills in web development. I enjoy experimenting with new technologies, building APIs, and creating intuitive user interfaces that make an impact.
 
-###### Need help with a project or custom application? Feel free to reach out to me!
+###### Need help with a project or custom application? Feel free to reach out to me [here](https://t.me/aidenfier)!
 
 
 ### My Skills and Tools & Software I Use
